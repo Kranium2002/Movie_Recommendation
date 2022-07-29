@@ -1,5 +1,5 @@
-# Movie_Recommendation
-Using Matrix Factorization for movie recommendation
+# Movie Recommendation
+Using Matrix Factorization for movie recommendationvusing MovieLens 1 million movie rewiews dataset. https://grouplens.org/datasets/movielens/1m/
 
 I have used matrix factorization based prediction method because it is easy to scale to massive data sets. When we use a distance based prediction method we run into the risk of overfitting ratings matrix. 
 
